@@ -1,7 +1,7 @@
 # Interactive World Builder
 
-**PFA â€” Week 06 / Midterm project**  
-**Unreal Engine 5.8 Â· Editor Utility Widget Â· Python**
+**PFA Week 06 / Midterm project**  
+**Unreal Engine 5.8 · Editor Utility Widget · Python**
 
 Interactive World Builder is an Unreal Editor tool for quickly building a small, playable stylized forest. Instead of placing each element by hand, an artist changes a few controls, keeps a seed, and regenerates the world from one panel.
 
