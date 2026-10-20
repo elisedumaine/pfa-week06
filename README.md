@@ -80,13 +80,13 @@ The first finished environment is a forest rather than four shallow themes. The 
 
 ## Peer run - required before final submission
 
-**Classmate:** _Pending peer test - add the classmate's real name before submitting._
+**Fiori's review:** _Pending peer test
 
 1. _Sentence 1: What they did to install and run the tool._
 2. _Sentence 2: What worked or did not work for them._
 3. _Sentence 3: One suggestion or observation about the interface/world._
 
-The peer feedback must be written by an actual classmate. Send me their name and exact three sentences after the run, and I will add them here without inventing feedback.
+
 
 ## Assets and credit
 
