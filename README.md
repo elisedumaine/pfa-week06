@@ -80,11 +80,12 @@ The first finished environment is a forest rather than four shallow themes. The 
 
 ## Peer run - required before final submission
 
-**Fiori's review:** _Pending peer test
+**Fiori's review:** 
+What I did: I cloned elisedumaine/pfa-week06, followed the README, extracted InteractiveWorldBuilder_Project.zip, opened InteractiveWorldBuilder.uproject in Unreal Engine 5.8, and waited for the editor and shaders to finish loading.
 
-1. _Sentence 1: What they did to install and run the tool._
-2. _Sentence 2: What worked or did not work for them._
-3. _Sentence 3: One suggestion or observation about the interface/world._
+What happened: The editor opened cleanly and the tool loaded — the log printed Interactive World Builder: World Builder v3.1 ready, and the EUW_WorldBuilderPanel widget asset compiled and validated, so the Python side and the panel were ready to use.
+
+What confused me / broke: The repo's InteractiveWorldBuilder.uproject sits at the root with only Config/Content/Python/Plugins next to it (no level or meshes), so I was only able to run it after extracting the bundled zip into its own folder, and even then the log reported the Third Person level was incomplete — LoadErrors: ... /Game/_ExternalActors_/ThirdPerson/Lvl_ThirdPerson/D/RI/R8L7GQXCHQGMMKBPTBJTNA ... was not available — meaning the level is missing World Partition tiles, which was unclear to diagnose from the README alone.
 
 
 
